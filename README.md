@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Java Full Stack / Data-Driven Engineer with 9+ years of experience building scalable, production-ready systems — not just demos 📦<br>Deep into backend engineering, event-driven systems & big-data pipelines 🔄 handling real-world traffic and complex workflows<br>Strong with Java, Spring Boot, Kafka, Spark & cloud platforms (AWS/Azure) ☁️ turning raw data into reliable services ⚙️<br>Into cloud architecture, automation & CI/CD ⚡ always optimizing performance, scalability, and clean design<br>Love building things that actually run in production 🔥 and keep learning what’s next
+🚀 Java Full Stack / Data-Driven Engineer with 10+ years of experience building scalable, production-ready systems — not just demos 📦<br>Deep into backend engineering, event-driven systems & big-data pipelines 🔄 handling real-world traffic and complex workflows<br>Strong with Java, Spring Boot, Kafka, Spark & cloud platforms (AWS/Azure) ☁️ turning raw data into reliable services ⚙️<br>Into cloud architecture, automation & CI/CD ⚡ always optimizing performance, scalability, and clean design<br>Love building things that actually run in production 🔥 and keep learning what’s next
 
 
 ## 🌐 Socials:
